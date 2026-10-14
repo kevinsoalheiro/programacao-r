@@ -34,13 +34,12 @@ Registrar minha evolução na linguagem R e desenvolver habilidades em análise 
 Estudos_R/
 │
 ├── Fundamentos
-│   ├── 01_fundamentos_básicos.R
-│   ├── 02_vetores.R
-│   ├── 03_tabelas.R
-│   ├── 04_descritiva.R
-│   ├── 05_graficos.R
-│   ├── 06_projeto_iris.R
-│   ├── 07_revisao.R
+│   ├── 01_vetores.R
+│   ├── 02_tabelas.R
+│   ├── 03_descritiva.R
+│   ├── 04_graficos.R
+│   ├── 05_projeto_iris.R
+│   ├── 06_revisao.R
 │   └── conclusoes_iris.md
 │
 │
