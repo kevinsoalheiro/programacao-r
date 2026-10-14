@@ -24,3 +24,25 @@ reprovados <-  notas[notas < 60]
 cat(' Aprovados: ', aprovados, '\n',
     'Reprovados: ', reprovados, '\n')
 
+
+#Informações adicionais
+
+# genero <- c("masculino","feminino")
+# genero
+# class(genero)
+# 
+# genero <- as.factor(genero)
+# genero
+# class(genero)
+# 
+# Comprimento
+# 
+# length(genero)
+# 
+# p <- 43
+# length(p)
+# 
+# q <- "bom dia"
+# length(q)
+# nchar(q)
+
