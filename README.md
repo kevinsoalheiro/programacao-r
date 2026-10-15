@@ -36,7 +36,7 @@ Estudos_R/
 ├── Fundamentos
 │   ├── 01_vetores.R
 |   ├── 02_matrizes.R
-│   ├── 0_tabelas.R
+│   ├── 03_data_frame.R
 │   ├── 0_descritiva.R
 │   ├── 0_graficos.R
 │   ├── 0_projeto_iris.R
