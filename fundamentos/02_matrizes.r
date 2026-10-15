@@ -28,3 +28,24 @@ matriz4 <- matrix(2:13, nrow =4, ncol=3, byrow=TRUE,
                   dimnames = list(c('L1','L2','L3','L4'),
                                     c('C1','C2','C3')))
 matriz4
+
+matriz5 <- matrix(c(1,5,15,8), nrow = 2, ncol=2,byrow=TRUE)
+matriz6 <- matrix(c(2,4,6,10),nrow=2,ncol=2,byrow=TRUE)
+matriz5
+matriz6
+
+matriz5+matriz6
+matriz5
+
+
+#multiplicação matricial
+
+matriz7 = matriz5 %*% matriz6
+
+colSums(matriz7)
+colMeans(matriz7)
+
+rowSums(matriz7)
+rowMeans(matriz7)
+
+
