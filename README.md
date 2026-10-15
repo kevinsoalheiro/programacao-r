@@ -35,11 +35,12 @@ Estudos_R/
 │
 ├── Fundamentos
 │   ├── 01_vetores.R
-│   ├── 02_tabelas.R
-│   ├── 03_descritiva.R
-│   ├── 04_graficos.R
-│   ├── 05_projeto_iris.R
-│   ├── 06_revisao.R
+|   ├── 02_matrizes.R
+│   ├── 0_tabelas.R
+│   ├── 0_descritiva.R
+│   ├── 0_graficos.R
+│   ├── 0_projeto_iris.R
+│   ├── 0_revisao.R
 │   └── conclusoes_iris.md
 │
 │
